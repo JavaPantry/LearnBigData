@@ -1,0 +1,5 @@
+Useful Links for iPython Notebooks:
+
+Shortcuts in iPython - https://damontallen.github.io/IPython-quick-ref-sheets/
+
+Interesting iPython videos - http://ipython.org/videos.html

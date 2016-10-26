@@ -1,0 +1,13 @@
+echo git rm -r .idea
+C:\WebStormWS\LearnBigData>git rm -r --cached .idea
+rm '.idea/LearnBigData.iml'
+rm '.idea/modules.xml'
+rm '.idea/vcs.xml'
+rm '.idea/workspace.xml'
+C:\WebStormWS\LearnBigData>git add .gitignore
+C:\WebStormWS\LearnBigData>git commit -m 'remove idea folder from remote'
+
+C:\WebStormWS\LearnBigData>git push origin master
+Username for 'https://github.com': JavaPantry
+Password for 'https://JavaPantry@github.com':
+Everything up-to-date
